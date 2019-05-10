@@ -151,6 +151,7 @@ import logoIBM from './assets/logo_ibm.svg';
 import logoIBMMono from './assets/logo_ibm_mono.svg';
 import logoKafka from './assets/logo_kafka.svg';
 import logoKibana from './assets/logo_kibana.svg';
+import logoTheFabric from './assets/logo_thefabric.svg';
 import logoKubernetes from './assets/logo_kubernetes.svg';
 import logoLogstash from './assets/logo_logstash.svg';
 import logoMemcached from './assets/logo_memcached.svg';
@@ -446,6 +447,7 @@ const typeToIconMap = {
   logoIBMMono,
   logoKafka,
   logoKibana,
+  logoTheFabric,
   logoKubernetes,
   logoLogstash,
   logoMemcached,
